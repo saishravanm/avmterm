@@ -85,4 +85,18 @@ data.xlsx Successfully created
 ```
 All outputted files are placed inside of ``./avmterm/output``as default
 
+<h3>References:</h3>
+Utilizes the AVM, "a comprehensive and manually curated compilation of virus mutations associated with aerosol-transmitted human diseases"
 
+```
+AVM Credits:
+
+doi: https://doi.org/10.1101/2023.12.15.571955
+History: December 16, 2023.
+
+Copyright: The copyright holder for this preprint is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-ND 4.0 International license.
+
+    Lan Mei, Yaopan Hou, Jiajun Zhou, Yetong Chang, Yuwei Liu, Di Wang, Yunpeng Zhang, Shangwei Ning, and Xia Li
+    College of Bioinformatics Science and Technology, Harbin Medical University, Harbin 150081, China
+    Corresponding author(s). E-mail: lixia@hrbmu.edu.cn (Xia L), ningsw@ems.hrbmu.edu.cn (Ning S), zhangyp@hrbmu.edu.cn (Yun Z).
+```
