@@ -50,7 +50,7 @@ else:
 #if the user wants to list either the viruses or categories -> process it
 if(args.virus == 'viruslist'):
     print("Human rhinovirus (rhino)\nInfluenzavirus A (influenza)\nMeasles virus (measles)\nMERS-COV (mers)\nNorovirus (noro)\nHuman respiratory syncytial virus (hrsv)\nMERS-COV (mcov)\nSARS-COV1 (scov1)\nSARS-COV2 (scov2)\nVaricella-Zoster virus (vzv)")
-if(args.filter == 'clist'):
+elif(args.filter[0] == 'clist'):
     print("Mutation Site (msite)\nMutation Level(mlevel)\nGene/Protein(gorp)\nNCBI(ncbi)\nCountry(country)\nMutation Type(muttype)\nGenotype/Subtype/Clade(gsc)\nSample(sample)\nVariants(variants)\nMedicine/Antibody/Vaccine(mav)\nTransmission(transmission)\nViral Transmission Mechanism (vrs)\nTransmission Mechanism(transmech)")
 else: 
     cols = []
